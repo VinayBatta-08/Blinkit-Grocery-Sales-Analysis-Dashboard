@@ -62,8 +62,8 @@ Dashboard screenshots will be added here.
 
 ### Page 1
 
-![Dashboard Page 1](dashboard_page_1.png)
+![dashboard Page 1](dashboard_page_1.png)
 
 ### Page 2
 
-![Dashboard Page 2](dashboard_page_2.png)
+![dashboard Page 2](dashboard_page_2.png)
