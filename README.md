@@ -64,10 +64,6 @@ The dashboard analyzes sales performance across:
 
 ## Dashboard Preview
 
-Dashboard screenshots will be added here.
-
-## Dashboard Preview
-
 ### Page 1
 
 ![dashboard Page 1](dashboard_page_1.png)
