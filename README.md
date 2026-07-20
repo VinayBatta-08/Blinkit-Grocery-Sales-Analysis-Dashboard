@@ -1,8 +1,8 @@
-# BlinkIT Grocery Sales Analysis Dashboard
+# Blinkit Grocery Sales Analysis Dashboard
 
 ## Project Overview
 
-This project analyzes BlinkIT grocery sales data using SQL, Power BI, and DAX.
+This project analyzes Blinkit grocery sales data using SQL, Power BI, and DAX.
 
 The project focuses on analyzing sales performance across item types, fat content, outlet types, locations, and establishment years.
 
